@@ -1,0 +1,1 @@
+web: gunicorn dashboards.app:app
